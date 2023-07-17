@@ -1,0 +1,3401 @@
+fileFormatVersion: 2
+guid: 1cdf6b3489dc8914eb9e69b9aea03485
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 440
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c097f08e7d7ed41bfc2bf578ccc68b
+      internalID: 33977596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 440
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9e93b416f856540a8b6c1af422382b
+      internalID: -572987290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 440
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22f5d66359f4e46b4c8b3861064ec5
+      internalID: 1752853837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 440
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b6b6986e7c0446bed3cc6a27fe0ea
+      internalID: 913097332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 440
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45847f9ca31081244b2230242b9e45b7
+      internalID: -228148200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 441
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363389fb80281043959fbd6fc6850c8
+      internalID: -1344589337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 440
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef140cbddf9da7479ee3850fe9cdaae
+      internalID: 644643029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 440
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806bb2f870e4894fb2458cbb4473cfd
+      internalID: -1675412790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16aa44ee40b50449f29446f451e61d
+      internalID: 109791156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 440
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951852b8e37bbe3428de874c2dfb865f
+      internalID: -737011317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 440
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd789f0bca7a3148830cb25772c4fbb
+      internalID: -1853824714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 440
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ecf14aa163e19428a610b654ff67fe
+      internalID: 232747904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 440
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9da2a3cdc15b4041be8176b7a160347
+      internalID: 940756043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 440
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4875b3433962be44963adce207b8fe4
+      internalID: -1031293289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0523da870cba140938e605e822b494
+      internalID: 111916508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_15
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 441
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01624a7590ca662439b5261599cd67ff
+      internalID: 1976560519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fba58e731f7b14fa1690b903ed14f7
+      internalID: -764080095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_17
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ef2a3a868aebc4e9f2aa7899730362
+      internalID: 2070652302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_18
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 440
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcdc6ae56a831d448d95d88d4c98184
+      internalID: -474747237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 440
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10560505d72c27a4280f4ba0890d31b2
+      internalID: 894744722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 440
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa218998b52f8d479bab07e6c93192e
+      internalID: -2096381197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 440
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22d14a955b9324ab836b93b44ca2cc
+      internalID: 801717404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_22
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 440
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb6b5b060a5014c9e2af89681d080e
+      internalID: 493393115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 440
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9175eb502af1479f218a1a781a527
+      internalID: 2106904964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_24
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 440
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db27a07757b56446b0f798a802fca6c
+      internalID: 1721312236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_25
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 440
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa938012e9ad74f80ed85b0e8cc996
+      internalID: -89926525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 440
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2f54be9287bd9409ec2298e5e28f9c
+      internalID: -1043659853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 440
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db331739e5b55fe409a530799f332d75
+      internalID: -463463050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_28
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 440
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f715aeddcb42c874e8a78be46690d692
+      internalID: 1907992655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_29
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 440
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7cac10a1a98114a8ec1fa07692c802
+      internalID: 1708043407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf158a1eb584d94ebeeae1b138d5c3b
+      internalID: -1183412837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 392
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9658a0789a076c7429ecc2fde9dd126a
+      internalID: 1723015384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 392
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f24ff64378ac4ab8d5926188a7204
+      internalID: 189747517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 392
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1197692c3047ed846b936c8a4aa90c41
+      internalID: 626665492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 392
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcce9d2fe57e1448096e093ca9758c
+      internalID: -374693568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 392
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46370eb109a9167419d07c00d66cb5e0
+      internalID: 1209481228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 392
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797334a5f79af6840bd60ec0dadf1b45
+      internalID: 6544585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 392
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44463e907ed6931488c7bd43a2989882
+      internalID: -1769910567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 392
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0d3f90ce2dbd48aac5078373c1a5a
+      internalID: 852864993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 392
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f412b6f242cf30a44906350732a1c7b4
+      internalID: 22110976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_40
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 392
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cc48fcd1889114e9516030c21de330
+      internalID: -1749356703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 392
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63436e3d4137349981b117ebde585c
+      internalID: -1596379470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 392
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b722cd5baa1246b9369d648159851
+      internalID: 1907644734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_43
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 392
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae50db9c7f3ab9445898cd16972915aa
+      internalID: -1517437315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_44
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f093b6a6e14da840b8a9572c80aa8ae
+      internalID: 1765496551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_45
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 377
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c2516eb7c727e4d8d66f1f023d7d35
+      internalID: -1883490481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_46
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3671451aadb73644089d682cb42d5c02
+      internalID: 2034180782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_47
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f6eea2bec68ff47bad7b50f2eadbd1
+      internalID: 1772970572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_48
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46985bdd07b81d645a807ca5e74d4c9a
+      internalID: 1612744707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7564773a5b1dc47866531d4e67571a
+      internalID: -1030700100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_50
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb276542589ae14fab8ed9ea341d72c
+      internalID: 2092265605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_51
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e9e4fc77a6afb469507a7c1030c8d7
+      internalID: -879387969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_52
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc2331ddf31a7a47bc2a95f7a3fac3f
+      internalID: 310969069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_53
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 377
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b0d713c539b248b64dd957b49a908
+      internalID: 1689774803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 355
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800d6f181edea444a873d458ccc19fe
+      internalID: -697308829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 355
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57418150127ee24888e1bdcfe4cb3d8
+      internalID: -835684347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b263baa33ebce9448687e780cd2fc44
+      internalID: -1973314513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 364
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d53f13df97ccce4885023ee4c8b61c8
+      internalID: 1493836229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 365
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92044cfce89fb5542a939274d64b5456
+      internalID: -1595964492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_59
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 366
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218035cf980489f4eafac0535ad697ba
+      internalID: -871313616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe763af8672f034ebfcbe3a82549082
+      internalID: 734670799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 364
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e290b25b9bf8ce4d81fe94b6fe6e10a
+      internalID: 2086221473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 365
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1c3e05219d044db1d11f325f11682
+      internalID: 956848248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 366
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5600cecb5179854396c0122a96acdab
+      internalID: -420482651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 367
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b60ef35e9601344c9a4133a3b7788f1
+      internalID: 113675685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 361
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a37e1ab37c235a44923560372ec0080
+      internalID: -2015752952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 361
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca602a54118134096dfd1933d2d1cf
+      internalID: -414094396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_67
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 362
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a4f5a289e57fc4a86f7034fddac735
+      internalID: 1450371623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 361
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7689b542a6ecba4e8fbdbe94e4de187
+      internalID: 1264691926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 365
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44f90263674d464388a3d110e8cffa4
+      internalID: -2056818579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_70
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 365
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3574d18ef2e4540b3b90b90a77414c
+      internalID: 2051898034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_71
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 365
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d6f03898731e34a873973133ded197
+      internalID: 1387121751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_72
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 365
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c340f0ab32caab54590f5d6cbbe3842c
+      internalID: 271789381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_73
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 365
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378a0db4c63117408745cadfd34d862
+      internalID: -818717418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_83
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 364
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e208b8cf12eef498a66bbc57cc29a1
+      internalID: -1318999484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_84
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ea3edb43d4c2940ad06fea7e4d2fb8
+      internalID: 443287845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_85
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 365
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f286a45182f86d34ea14a1913bb4463c
+      internalID: 1640987102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_86
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299e7eb4f11bc824e9207536900af788
+      internalID: 1630330794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_87
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb068403e3fc50e499fd4736a219b293
+      internalID: -508018706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_88
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e1fa2438b8644f95af7ef8d793635
+      internalID: -780846968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_89
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a78797ab2f33f1459980d0e20caf7b1
+      internalID: -172501867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_90
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cadd387b15a8a47a22aa5b2b5e4e42
+      internalID: -1332570258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_91
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81033cf550c98684b8d3c23cbf5d134e
+      internalID: -756259823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_92
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a969c470c018c8c459dc497380ea9681
+      internalID: -1982558913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_93
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f1ad6b48cc7341bcb21a2ddf00595
+      internalID: -2075320099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_94
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 362
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d86f91a78c084d8cd087f687f4db7
+      internalID: -254813215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_95
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 364
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09622d47a031445ad150506ec88c8e
+      internalID: -938759946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_96
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf15b0fe76f2a22438e161ca13387dad
+      internalID: -1902023922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_97
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 367
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6477a3cd396b14c8e823ec2db6fb92
+      internalID: 2098481066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_98
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 370
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7864d660a36aa4418479d2e2280a582
+      internalID: -1849087775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_99
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156eb085b429d2c43a14390b7107d33b
+      internalID: 483430094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad1c2203e89324c9ebd850f45b40d6
+      internalID: 1379380155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_101
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 360
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6c146951a8fc49bc7d32a9d0ca719
+      internalID: 1078610330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_102
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 361
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d70af9aa046db4089efa2e4fea2f5a
+      internalID: -200220406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_103
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 361
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b793a8a6957654cacf30ac2851bfda
+      internalID: -736469089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_104
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 361
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de7dfd8c2c16f49b2b2d4aad47ffa9
+      internalID: 829965764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_105
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 361
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f51e0ca6f816ab438f21a1853ae717f
+      internalID: -1571400175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_106
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d323f6edf266487498a8504c098f992b
+      internalID: -2141268645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_107
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 353
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3744d55f41ea4c748bd4c0cab25634fb
+      internalID: 1558104184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_108
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f036db07e1a9d2b4e98130285b1a608a
+      internalID: -30503090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_109
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3543cca3152934ea763461c53bfc1c
+      internalID: 1106237357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_110
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5659187e1d98640a6c4fb53f0245f8
+      internalID: -966578347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5f8a1caca17e847833a19e5db7fb08
+      internalID: -2094046504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_112
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f3c488b99657c43a8eba237e83ac52
+      internalID: -249668640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_113
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7da23af52aedc4cb37e119a0f5fd8b
+      internalID: 1467686194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_114
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50716d7dfbb7e42a9b6103606660bd
+      internalID: 1350738476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_115
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f147f44d12e8df44ba812d3b27e82d1
+      internalID: -1065378342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_116
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 312
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745db07e614a8f24983adf948047a024
+      internalID: -165250008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_117
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 312
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587960f6d0ca03f4babf88bbf139b07c
+      internalID: 1915896468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_118
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 312
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bfb5cbcef602649bc7919cb48bdf99
+      internalID: -441328069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_119
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260c20aeb4447104fa5082c33c123b86
+      internalID: 1535131753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_120
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 312
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c905e728b17b1974f92b695e1d7a6dfb
+      internalID: -541487275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_121
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 312
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc48ca19cb4dd441b149f88c4a4a424
+      internalID: -1168211604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 312
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93300a518b6e345af952bd22ffa52c
+      internalID: 2093729252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a8b6314e2787246a13ab35ad05c39e
+      internalID: -772734494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_124
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 312
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa18d67270d884040afcdcf6ca807416
+      internalID: -263718047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_125
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 312
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd16796a49a7b4faf4f5e5af038004
+      internalID: 1806647676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_126
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0858837e000db040b15d67c4906590e
+      internalID: 719802203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_127
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0431c380afd87d46bedc955154b47e3
+      internalID: -373063882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_128
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa68381ed09f5294face9f08e267b7e7
+      internalID: -1162169269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_129
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc5ec7541f5bd47a08771ce6d0582e
+      internalID: 556667235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_130
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 315
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe020ddded6ac489d324ca22f6b0da
+      internalID: 955574078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_131
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 315
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89658ce98e9b6479372379d5d30a90
+      internalID: 994785329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_132
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 312
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7252f3ce66aa4cc4987b0def179adaca
+      internalID: -796998463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_133
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 312
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef736ef947ccab488c48eb23a1e724c
+      internalID: 757995234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_134
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 312
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ee439cddefea43941293b2dac73fe
+      internalID: 1849359764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_135
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 312
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc82303b08af68845bd22d7ecdf7566d
+      internalID: -1544137924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2713ec1a93bda90418ed6e86a9740960
+      internalID: 326322884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_137
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276bc945bcda8104586150e325b97916
+      internalID: -1513723590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_138
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 312
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d8e223721dc64b971ee9561029f41
+      internalID: -1475680151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_139
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfce5e40f8544a43845fb7eda3561e0
+      internalID: 567882258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_140
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a169b7c7d26147b728d7113b8f21d
+      internalID: 553736388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_141
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29807801f9248a43b92f1b3cd2cc0d6
+      internalID: -100296275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_142
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd213da4094b3e44a0e0c283668473f
+      internalID: -1918430183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_143
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d785a8be1fe1c42a82c0725bd059ad
+      internalID: 383637954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_144
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe5b181ab0317468d87fbb32a88ff1
+      internalID: 95097007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_145
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 315
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ca97ccbc01da46922443a4d6070ef
+      internalID: 1767183526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_146
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 315
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd9e0af75db3184cbd533140406e38a
+      internalID: -928224540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_147
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 316
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b25b7a275f6084eb05ca98fdae15aa
+      internalID: -575616199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec55612309a0d1b49af36953835fdb48
+      internalID: 1248103139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_149
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 312
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5544440607d42674992cf15a15a04cf1
+      internalID: -1198428171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_150
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 315
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b1b0c2db5dcf489839e2a44a0b44c
+      internalID: -747045405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_151
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 315
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5181d20d2b4cd4e85fba0a75d99063
+      internalID: 818224685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_152
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 315
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291c3820a73116c4f8781b214e403140
+      internalID: -616014153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_153
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 224
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b195c57b34f801a459a2c233ebb3ece7
+      internalID: 2009457691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 224
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d9f777dabc47543ba06090e934aa3d
+      internalID: 1210683248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_155
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 48
+        width: 224
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f81894c0b4164aac3ae17252e16bb
+      internalID: 29166859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DonkeyKongSprites2_156
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 224
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f04e622655cc541b8f293b0cd21153
+      internalID: -12309592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DonkeyKongSprites2_0: 33977596
+      DonkeyKongSprites2_1: -572987290
+      DonkeyKongSprites2_10: -1853824714
+      DonkeyKongSprites2_100: 1379380155
+      DonkeyKongSprites2_101: 1078610330
+      DonkeyKongSprites2_102: -200220406
+      DonkeyKongSprites2_103: -736469089
+      DonkeyKongSprites2_104: 829965764
+      DonkeyKongSprites2_105: -1571400175
+      DonkeyKongSprites2_106: -2141268645
+      DonkeyKongSprites2_107: 1558104184
+      DonkeyKongSprites2_108: -30503090
+      DonkeyKongSprites2_109: 1106237357
+      DonkeyKongSprites2_11: 232747904
+      DonkeyKongSprites2_110: -966578347
+      DonkeyKongSprites2_111: -2094046504
+      DonkeyKongSprites2_112: -249668640
+      DonkeyKongSprites2_113: 1467686194
+      DonkeyKongSprites2_114: 1350738476
+      DonkeyKongSprites2_115: -1065378342
+      DonkeyKongSprites2_116: -165250008
+      DonkeyKongSprites2_117: 1915896468
+      DonkeyKongSprites2_118: -441328069
+      DonkeyKongSprites2_119: 1535131753
+      DonkeyKongSprites2_12: 940756043
+      DonkeyKongSprites2_120: -541487275
+      DonkeyKongSprites2_121: -1168211604
+      DonkeyKongSprites2_122: 2093729252
+      DonkeyKongSprites2_123: -772734494
+      DonkeyKongSprites2_124: -263718047
+      DonkeyKongSprites2_125: 1806647676
+      DonkeyKongSprites2_126: 719802203
+      DonkeyKongSprites2_127: -373063882
+      DonkeyKongSprites2_128: -1162169269
+      DonkeyKongSprites2_129: 556667235
+      DonkeyKongSprites2_13: -1031293289
+      DonkeyKongSprites2_130: 955574078
+      DonkeyKongSprites2_131: 994785329
+      DonkeyKongSprites2_132: -796998463
+      DonkeyKongSprites2_133: 757995234
+      DonkeyKongSprites2_134: 1849359764
+      DonkeyKongSprites2_135: -1544137924
+      DonkeyKongSprites2_136: 326322884
+      DonkeyKongSprites2_137: -1513723590
+      DonkeyKongSprites2_138: -1475680151
+      DonkeyKongSprites2_139: 567882258
+      DonkeyKongSprites2_14: 111916508
+      DonkeyKongSprites2_140: 553736388
+      DonkeyKongSprites2_141: -100296275
+      DonkeyKongSprites2_142: -1918430183
+      DonkeyKongSprites2_143: 383637954
+      DonkeyKongSprites2_144: 95097007
+      DonkeyKongSprites2_145: 1767183526
+      DonkeyKongSprites2_146: -928224540
+      DonkeyKongSprites2_147: -575616199
+      DonkeyKongSprites2_148: 1248103139
+      DonkeyKongSprites2_149: -1198428171
+      DonkeyKongSprites2_15: 1976560519
+      DonkeyKongSprites2_150: -747045405
+      DonkeyKongSprites2_151: 818224685
+      DonkeyKongSprites2_152: -616014153
+      DonkeyKongSprites2_153: 2009457691
+      DonkeyKongSprites2_154: 1210683248
+      DonkeyKongSprites2_155: 29166859
+      DonkeyKongSprites2_156: -12309592
+      DonkeyKongSprites2_157: 134999644
+      DonkeyKongSprites2_16: -764080095
+      DonkeyKongSprites2_17: 2070652302
+      DonkeyKongSprites2_18: -474747237
+      DonkeyKongSprites2_19: 894744722
+      DonkeyKongSprites2_2: 1752853837
+      DonkeyKongSprites2_20: -2096381197
+      DonkeyKongSprites2_21: 801717404
+      DonkeyKongSprites2_22: 493393115
+      DonkeyKongSprites2_23: 2106904964
+      DonkeyKongSprites2_24: 1721312236
+      DonkeyKongSprites2_25: -89926525
+      DonkeyKongSprites2_26: -1043659853
+      DonkeyKongSprites2_27: -463463050
+      DonkeyKongSprites2_28: 1907992655
+      DonkeyKongSprites2_29: 1708043407
+      DonkeyKongSprites2_3: 913097332
+      DonkeyKongSprites2_30: -1183412837
+      DonkeyKongSprites2_31: 1723015384
+      DonkeyKongSprites2_32: 189747517
+      DonkeyKongSprites2_33: 626665492
+      DonkeyKongSprites2_34: -374693568
+      DonkeyKongSprites2_35: 1209481228
+      DonkeyKongSprites2_36: 6544585
+      DonkeyKongSprites2_37: -1769910567
+      DonkeyKongSprites2_38: 852864993
+      DonkeyKongSprites2_39: 22110976
+      DonkeyKongSprites2_4: -228148200
+      DonkeyKongSprites2_40: -1749356703
+      DonkeyKongSprites2_41: -1596379470
+      DonkeyKongSprites2_42: 1907644734
+      DonkeyKongSprites2_43: -1517437315
+      DonkeyKongSprites2_44: 1765496551
+      DonkeyKongSprites2_45: -1883490481
+      DonkeyKongSprites2_46: 2034180782
+      DonkeyKongSprites2_47: 1772970572
+      DonkeyKongSprites2_48: 1612744707
+      DonkeyKongSprites2_49: -1030700100
+      DonkeyKongSprites2_5: -1344589337
+      DonkeyKongSprites2_50: 2092265605
+      DonkeyKongSprites2_51: -879387969
+      DonkeyKongSprites2_52: 310969069
+      DonkeyKongSprites2_53: 1689774803
+      DonkeyKongSprites2_54: -697308829
+      DonkeyKongSprites2_55: -835684347
+      DonkeyKongSprites2_56: -1973314513
+      DonkeyKongSprites2_57: 1493836229
+      DonkeyKongSprites2_58: -1595964492
+      DonkeyKongSprites2_59: -871313616
+      DonkeyKongSprites2_6: 644643029
+      DonkeyKongSprites2_60: 734670799
+      DonkeyKongSprites2_61: 2086221473
+      DonkeyKongSprites2_62: 956848248
+      DonkeyKongSprites2_63: -420482651
+      DonkeyKongSprites2_64: 113675685
+      DonkeyKongSprites2_65: -2015752952
+      DonkeyKongSprites2_66: -414094396
+      DonkeyKongSprites2_67: 1450371623
+      DonkeyKongSprites2_68: 1264691926
+      DonkeyKongSprites2_69: -2056818579
+      DonkeyKongSprites2_7: -1675412790
+      DonkeyKongSprites2_70: 2051898034
+      DonkeyKongSprites2_71: 1387121751
+      DonkeyKongSprites2_72: 271789381
+      DonkeyKongSprites2_73: -818717418
+      DonkeyKongSprites2_74: 1811490992
+      DonkeyKongSprites2_75: 1757789236
+      DonkeyKongSprites2_76: -290960012
+      DonkeyKongSprites2_77: 135859879
+      DonkeyKongSprites2_78: 1605417767
+      DonkeyKongSprites2_79: 133018803
+      DonkeyKongSprites2_8: 109791156
+      DonkeyKongSprites2_80: -532603669
+      DonkeyKongSprites2_81: -360393388
+      DonkeyKongSprites2_82: 1052912605
+      DonkeyKongSprites2_83: -1318999484
+      DonkeyKongSprites2_84: 443287845
+      DonkeyKongSprites2_85: 1640987102
+      DonkeyKongSprites2_86: 1630330794
+      DonkeyKongSprites2_87: -508018706
+      DonkeyKongSprites2_88: -780846968
+      DonkeyKongSprites2_89: -172501867
+      DonkeyKongSprites2_9: -737011317
+      DonkeyKongSprites2_90: -1332570258
+      DonkeyKongSprites2_91: -756259823
+      DonkeyKongSprites2_92: -1982558913
+      DonkeyKongSprites2_93: -2075320099
+      DonkeyKongSprites2_94: -254813215
+      DonkeyKongSprites2_95: -938759946
+      DonkeyKongSprites2_96: -1902023922
+      DonkeyKongSprites2_97: 2098481066
+      DonkeyKongSprites2_98: -1849087775
+      DonkeyKongSprites2_99: 483430094
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
